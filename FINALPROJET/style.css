@@ -695,3 +695,22 @@ footer {
 
 }
 
+
+
+@media (max-width:630px){
+ .bx-menu{
+    padding-left: 270px;
+ }
+}
+
+@media (max-width:414px){
+ .bx-menu{
+    padding-left: 200px;
+ }
+}
+
+@media (max-width:340px){
+ .bx-menu{
+    padding-left: 170px;
+ }
+}
